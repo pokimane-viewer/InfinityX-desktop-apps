@@ -1,2 +1,2 @@
-# InfinityX-desktop-apps
+# InfinityX, by PDFSage
  
