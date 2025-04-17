@@ -1,0 +1,1 @@
+a simplified mock logo of the of the Microsoft Corporation corporate logo
